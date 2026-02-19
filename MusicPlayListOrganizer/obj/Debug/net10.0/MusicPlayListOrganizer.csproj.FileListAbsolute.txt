@@ -1,0 +1,15 @@
+D:\VS Code\Repos\MusicPlayListOrganizer\bin\Debug\net10.0\MusicPlayListOrganizer.exe
+D:\VS Code\Repos\MusicPlayListOrganizer\bin\Debug\net10.0\MusicPlayListOrganizer.deps.json
+D:\VS Code\Repos\MusicPlayListOrganizer\bin\Debug\net10.0\MusicPlayListOrganizer.runtimeconfig.json
+D:\VS Code\Repos\MusicPlayListOrganizer\bin\Debug\net10.0\MusicPlayListOrganizer.dll
+D:\VS Code\Repos\MusicPlayListOrganizer\bin\Debug\net10.0\MusicPlayListOrganizer.pdb
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.AssemblyInfoInputs.cache
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.AssemblyInfo.cs
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.csproj.CoreCompileInputs.cache
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.sourcelink.json
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.dll
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\refint\MusicPlayListOrganizer.dll
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.pdb
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\MusicPlayListOrganizer.genruntimeconfig.cache
+D:\VS Code\Repos\MusicPlayListOrganizer\obj\Debug\net10.0\ref\MusicPlayListOrganizer.dll

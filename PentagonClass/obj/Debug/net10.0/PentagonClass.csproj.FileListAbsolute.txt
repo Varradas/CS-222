@@ -1,0 +1,15 @@
+D:\VS Code\Repos\PentagonClass\bin\Debug\net10.0\PentagonClass.exe
+D:\VS Code\Repos\PentagonClass\bin\Debug\net10.0\PentagonClass.deps.json
+D:\VS Code\Repos\PentagonClass\bin\Debug\net10.0\PentagonClass.runtimeconfig.json
+D:\VS Code\Repos\PentagonClass\bin\Debug\net10.0\PentagonClass.dll
+D:\VS Code\Repos\PentagonClass\bin\Debug\net10.0\PentagonClass.pdb
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.AssemblyInfoInputs.cache
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.AssemblyInfo.cs
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.csproj.CoreCompileInputs.cache
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.sourcelink.json
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.dll
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\refint\PentagonClass.dll
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.pdb
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\PentagonClass.genruntimeconfig.cache
+D:\VS Code\Repos\PentagonClass\obj\Debug\net10.0\ref\PentagonClass.dll
